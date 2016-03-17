@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sample1</key>
+	<dict>
+		<key>desc</key>
+		<string>当购买的商品中, 有符合&quot;买二赠一&quot;优惠条件的商品时:</string>
+		<key>bin</key>
+		<array>
+			<string>ITEM000001</string>
+			<string>ITEM000001</string>
+			<string>ITEM000001</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000003-2</string>
+		</array>
+	</dict>
+	<key>sample2</key>
+	<dict>
+		<key>desc</key>
+		<string>当购买的商品中, 没有符合&quot;买二赠一&quot;优惠条件的商品时:</string>
+		<key>bin</key>
+		<array>
+			<string>ITEM000001</string>
+			<string>ITEM000001</string>
+			<string>ITEM000001</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000003-2</string>
+		</array>
+	</dict>
+	<key>sample3</key>
+	<dict>
+		<key>desc</key>
+		<string>当购买的商品中, 有符合&quot;95折&quot;优惠条件的商品时:</string>
+		<key>bin</key>
+		<array>
+			<string>ITEM000001</string>
+			<string>ITEM000001</string>
+			<string>ITEM000001</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000003-2</string>
+		</array>
+	</dict>
+	<key>sample4</key>
+	<dict>
+		<key>desc</key>
+		<string>当购买的商品中, 有符合&quot;95折&quot;优惠条件的商品, 又有符合&quot;买二赠一&quot;优惠条件的商品时:</string>
+		<key>bin</key>
+		<array>
+			<string>ITEM000001</string>
+			<string>ITEM000001</string>
+			<string>ITEM000001</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000002</string>
+			<string>ITEM000003-2</string>
+		</array>
+	</dict>
+</dict>
+</plist>
